@@ -41,7 +41,7 @@ import java.util.Scanner;
         String grade;
         if (percentage >= 90) grade = "O";
         else if (percentage >= 80) grade = "A+";
-        else if (percentage >= 70) grade = "A";
+        else if (percentage >= 70) grade = "A"; 
         else if (percentage >= 60) grade = "B+";
         else if (percentage >= 50) grade = "B";
         else grade = "F";
